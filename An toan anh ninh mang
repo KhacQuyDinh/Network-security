@@ -1,0 +1,146 @@
+#Bối cảnh xã hội:
++ Nhu cầu các chuyên gia CNTT biết bảo vệ an toàn mạng và máy tính là râts lớn.
+
+#Bối cảnh công nghệ:
++ Trước đây an toàn thông tin được đảm bảo bằng các biện pháp vật lý và hành chính
+
+#An toàn thông tin:
++ Mô tả nhiệm vụ bảo vệ thông tin ở khuôn dạng số.
+
+#Mục tiêu của an toàn thông tin:
++ Đảm bảo các biện pháp bảo vệ thích hợp
++ Bảo vệ các đặc tính thông tin (bảo mật, toàn vẹn, khả dụng), trên ccs thiết bị lưu trữ, thao tác, và truyền thông tin.
+
+#Cách thức thực hiện:
++ Kết hợp phần cứng, phần mềm và truyền thoong.
++ Ba lớp bảo vệ: sản phẩm (physical security), con người (personal security), thủ tục (organization security).
+
+
+#Định nghĩa an toàn thông tin:
+"Là vấn đề bảo vệ tính toàn vẹn, tính bảo mật và tính khả dụng của thông tin trên các thiết bị lưu trữ, thao tác, truyền dẫn thông tin, được thuwcjj hiện thông qua các sản phẩm con người và thủ tục."
+
++ Tính bảo mật: Giới hạn về việc truy nhập thông tin và tiết lô thông tin.
+Bảo vệ tính riêng tư cá nhân và [thông tin độc quyền].
+
++ Tính toàn vẹn: Bảo vệ thông tin khỏi bị sửa đổi hoặc triệt tiêu một kchs không thích hợp. Bao gồm đảm bảo tính [không thể chối bỏ] và tính xác thực của thông tin.
+
++ Tính khả dụng: Đảm bảo truy nhập và sử dụng thông tin một cách kịp thời và đáng tin cậy.
+
++ Tính xác thực: Tính chân thật có thể kiểm tra và tin cây được.
+
++ Tính trách nhiệm: Các hành động của một thực thể phải được quy một cách duy nhất về thực thể đó.
+
+#Các định nghĩa về an toàn: 
++ An toàn máy tính: Tên chung cho tập các công cụ được thiết kế để bảo vệ dữ liệu và chống lại tin tặc.
+
++ An toàn mạng: Các biện pháp bảo vệ dữ liệu khi truyền dẫn.
+
++ An toàn liên mạng: Các biện pháp bảo vệ dữ liệu khi truyền dẫn qua một tập các mạng kết nối với nhau.
+
+  
+#Các thách thức an toàn máy tính:
++ Sự ngộ nhận: Nhìn qua thì đơn giản nhưng càng vào sâu càng phức tạp.
+Do có các lỗ hổng an ninh tiềm tàng. Do các thủ tục an anh thường trái với trực quan; Sự kết hợp nhiều giao thức và giải thuật.
+ 
++ Cuộc đấu trí giữa kẻ tấn công và người thiết kế hay quản trị.
++ Không thấy là có lợi cho đến khi bị phá hoại.
++ Yêu cầu giám sát đều đặn thậm chí là thường xuyên.
+[+ Quá thường xuyên là giải pháp tích hợp sau khi hoàn thành thiết kế.
++ Bị coi là trở ngại đối với việc sử dụng hiệu quả và thân thiên hệ thống hoặc thông tin]
+
+#Kiến trúc an ninh OSI:
++ Ước định một cách có hiệu quả các nhu cầu an ninh 
++ Đánh gíá và lựa chọn các sản phẩm và chính sách an ninh thích hợp 
++ Một cách thức có hệ thống, định nghĩa và đáp ứng các nhu câu an ninh
++ Cung cấp một tổng quan hữu ích mặc dù trừu tượng về các khai snieemj sẽ nghiên cứu. 
+-> cụ thể?
+
+#Các khía cạnh an ninh:
++ Tấn công an ninh: Hành động làm tổn hại an toàn thông tin.
++ Cơ chế an ninh: Quá trình được thiết kế đế phát hiện, ngăn ngừa, hoặc khôi phục từ một tấn công an ninh.
++ Dịch vụ an ninh: Dịch vụ tăng cường an ninh của các hệ thống xử lý dữ liệu và các chuyển giao thông tin.
+
+#Tấn công thụ động:
++ Tìm cách nắm bắt và sử dụng thông tin nhưng không tác động đến tài ngyên hệ thống: Không bao hàm bất kỳ sửa đổi nào trên dữ liệu.
++ Hai kiểu:
+++ Làm lộ nội dung thông báo. -> đọc được nội dung.
+++ Phân tích lưu lượng. -> Mẫu tin nhắn.
++ Chú trọng ngăn ngừa thay vì phát hiện: Thường bằn các biện pháp mã hóa.
+
+#Tấn công chủ động:
++ Bao hàm việc sửa đổi luồng dữ liệu hoặc tạo ra luồng dữ liệu giả.
++ Bốn kiểu: Giả mạo; Sửa đổi thông báo; Lặp lại; Từ chối dịch vụ.
++ Mục tiêu là phát hiện tấn công chủ động và khôi phục khỏi ngưng trệ hay chậm trễ.
+
+#Dịch vụ an ninh:
++ [X.800]: Dịch vụ cung cấp bởi một tầng giao thức trong các hệ thống mở truyền thông, đảm bảo an toàn thỏa đáng các hệ thống và các chuyển giao dữ liệu.
+
++ [RFC 2828]: Dịch vụ xủ lý hoặc truyền thông cung cấp bởi một hệ thống để đem lại một loại bảo về nhất định cho các tài nguyên hệ thống.
+
++ Chủ định chống lại các tấn công an ninh.
+
+#Các dịch vụ an ninh:
++ Xác thực: Đảm bảo thực thể truyền thông là cái nó khai nhận.
++ Điều khiển truy nhập: Ngăn ngừa sử dụng một cách trái phép tài nguyên.
++ Bảo mật dữ liệu: Bảo vệ dữ liệu khỏi bị tiết lộ một cách trái phép.
++ Toàn vẹn dữ liệu: Đảm bảo dữ liệu được nhận đúng như khi gửi bởi một thực thể được phép.
++ Chống chối bỏ: Bảo vệ khỏi sự chối bỏ bởi một trong các thục thể tham gia truyền thông.
++ Khả dụng: Đảm bảo tài nguyên có thể truy nhập và sử dụng được.
+
+#Cơ chế an ninh:
++ Một dịch vụ an ninh sử dụng một hoặc nhiều cơ chế an ninh.
++ Không có một cơ chế đơn lẻ nào hỗ trợ tất cả các dịch vụ an ninh.
++ Một yếu tố đặc biệt hậu thuẫn nhiều cơ chế an ninh đang được sử dụng. Như kỹ thuật mật mã học.
+
+#Các cơ chế an ninh
++Các cơ chế an ninh chuyên biệt: Được cài đặt ở một tầng giao thức chuyên biệt. Mã hóa, chữ ký số, điều khiển truy nhập, toàn vẹn dữ liệu, trao đổi xác thực, độn lưu lượng, điều khiển định tuyến, công chứng.
++ Các cơ chế an ninh phổ quát: Không chuyên biệt cho bất kỳ dịch vụ an ninh hay tầng giao thức đặc biệt nào. Tính năng đáng tin, nhãn an ninh, phát hiện sự kiện, dấu vết kiểm nghiệm an ninh, khôi phục an ninh.
+
+#Nhiệm vụ mô hình an toàn mạng
++Thiết kế giải thuật thực hiện chuyển đổi liên quan tới an toàn.
++Sinh thông tin bí mật để dùng với giải thuật.
++Phát triển các phương pháp phân phối và chia sẻ thông tin bí mật.
++Đặc tả một giao thức cho phép các chủ thể sử dụng giải thuật an ninh và thông tin bí mật cho một dịch vụ an ninh.
+
+#Định nghĩa mật mã học
++Là khoa học chuyển đổi thông tin sang dạng không thể hiểu được đối với những người không được quyền truy cập, để truyền và lưu trữ mà không bị lộ thông tin.
+
+#Mật mã học và an ninh
++Mật mã học có thể bảo vệ an toàn thông tin ở mức cơ bản.
++Có thể bảo vệ tính bảo mật của thông tin. -> Chỉ những bên được phép mới có thể xem được.
++Có thể đảm bảo tính toàn vẹn của thông tin.
++Giúp đảm bảo tính khả dụng của dữ liệu để nhưng nguwofi dùng được phép (với khóa) truy nhập được.
++Có thể xác minh tính xác thực của bên gửi.
++Có thể buộc chống chối bỏ.
+
+#Các giải thuật mật mã học
++Các giải thuật đối xứng: Sử dụng cùng một khóa để mã hóa và giải mã thông báo.
++Các giải thuât bất đối xứng (khóa công khai): Sử dụng hai thay vì một khóa.
++Các giải thuật băm: Tạo ra một chữ ký duy nhất đâị diện cho nội dung của một tập dữ liệu.
+
+#Một số thuật ngữ cơ bản
++Nguyên bản.
++Bản mã.
++Phép mã hóa.
++Phép giải mã.
++Hệ mã hóa: Một phương thức được sử dụng cho mã hóa.
+
+#Mô hình mã hóa đối xứng.
+#Các yêu cầu đặt ra.
++ Một giải thuật mã hóa mạnh: 
+Không cần giữ bí mật giải thuật mã hoá (có thể sử dụng rộng rãi);
+Địch thủ có thể biết đến đến một số bản mã cùng với các nguyên bản tương ứng.
+
++ Chỉ bên gửi và bên nhận biết khóa bí mật:
+An ninh chủ yếu nằm ở vấn đề duy trì tính bị của khóa.
+
+
+
+
+
+
+
+
+
+
+

@@ -9,15 +9,14 @@
 
 #Mục tiêu của an toàn thông tin:
 + Đảm bảo các biện pháp bảo vệ thích hợp
-+ Bảo vệ các đặc tính thông tin (bảo mật, toàn vẹn, khả dụng), trên ccs thiết bị lưu trữ, thao tác, và truyền thông tin.
++ Bảo vệ các đặc tính thông tin (bảo mật, toàn vẹn, khả dụng), trên các thiết bị lưu trữ, thao tác, và truyền thông tin.
 
 #Cách thức thực hiện:
 + Kết hợp phần cứng, phần mềm và truyền thoong.
 + Ba lớp bảo vệ: sản phẩm (physical security), con người (personal security), thủ tục (organization security).
 
-
 #Định nghĩa an toàn thông tin:
-"Là vấn đề bảo vệ tính toàn vẹn, tính bảo mật và tính khả dụng của thông tin trên các thiết bị lưu trữ, thao tác, truyền dẫn thông tin, được thuwcjj hiện thông qua các sản phẩm con người và thủ tục."
+"Là vấn đề bảo vệ tính toàn vẹn, tính bảo mật và tính khả dụng của thông tin trên các thiết bị lưu trữ, thao tác, truyền dẫn thông tin, được thực hiện thông qua các sản phẩm con người và thủ tục."
 
 + Tính bảo mật: Giới hạn về việc truy nhập thông tin và tiết lô thông tin.
 Bảo vệ tính riêng tư cá nhân và [thông tin độc quyền].
